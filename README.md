@@ -1,2 +1,2 @@
 # Vamsi-DevOps-portfolio
-My personal DevOps portfolio showcasing projects and skills
+My personal DevOps and Cloud portfolio showcasing projects and skills
