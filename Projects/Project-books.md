@@ -1,6 +1,3 @@
----
-title: EKS Project
----
 # End to End Node.js Application Deployment with AWS, Terraform, Jenkins, Kubernetes & ArgoCD
 
 ## 📌 Overview
