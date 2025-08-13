@@ -1,4 +1,12 @@
-Welcome to my DevOps portfolio!
+---
+layout: home
+---
+
+# 👋 Hi, I'm Vamsi
+
+Welcome to my DevOps portfolio!  
+
+Here’s one of my key projects:
 
 ## 🚀 End to End node.js application Deployment
 
