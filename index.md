@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Vamsi
-
 Welcome to my DevOps portfolio!
 
 ## 🚀 End to End node.js application Deployment
