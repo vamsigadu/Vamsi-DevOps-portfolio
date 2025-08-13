@@ -72,5 +72,4 @@ This project demonstrates a complete DevOps pipeline to:
 
 ---
 
-📂 **Repository Link:** https://github.com/vamsigadu/CloudOps-main.git(#)  
-🌐 **Live Demo:** https://github.com/vamsigadu/Vamsi-DevOps-portfolio.git(#)
+📂 **Repository Link:** https://github.com/vamsigadu/CloudOps-main.git
